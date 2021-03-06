@@ -4,7 +4,7 @@ This private workshop repository contains projects, hands-on training, coding ch
 
 ## Description
 
-Be in the class.The clarusway-workshop repository contains materials related to the IT trainings like projects, hands-on trainings, coding challenges, class-notes etc. in the following main areas.
+Dogs are cats?No.The clarusway-workshop repository contains materials related to the IT trainings like projects, hands-on trainings, coding challenges, class-notes etc. in the following main areas.
 
 - [AWS Workshop](./aws/README.md)
 
